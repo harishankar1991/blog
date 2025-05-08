@@ -8,4 +8,6 @@ class Post extends Model
 {
     //
     protected $fillable= ['title','content','img_url'];
+
+    //post
 }
